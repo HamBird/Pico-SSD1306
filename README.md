@@ -9,3 +9,4 @@ Modified version from Pico W C example code to allow easy rendering and drawing 
 # Base Code From:
 https://github.com/raspberrypi/pico-examples/blob/master/i2c/lcd_1602_i2c/lcd_1602_i2c.c
 
+# TODO: Add handling to only render parts of the buffer that has changed.
